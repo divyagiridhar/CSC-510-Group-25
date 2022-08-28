@@ -42,9 +42,9 @@ Describe the issue with as much detail as possible, so that the maintainers woul
 
 Describe the enhancement with as much detail as possible, so that the maintainers would be able to understand why your enhancement is required.
 
-* **Describe the enhancement with as much detail as possible
-* **Describe what problem your enhancement solves
-* **Describe how your enhancement would help the community
+* **Describe the enhancement with as much detail as possible**
+* **Describe what problem your enhancement solves**
+* **Describe how your enhancement would help the community**
 
 ### Pull Requests
 
@@ -53,4 +53,4 @@ Please follow the following steps to have your contribution considered by the ma
 1. Follow all our guidelines and be respectful to the community
 2. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing <details><summary>What if the status checks are not passing?</summary>If a status check is not passing, and you believe that this is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue </details>
 
-# :partying_face:	:partying_face:	:heart: Thanks again! Have a great day :heart: :partying_face:	:partying_face:	 
+# :vulcan_salute:	:partying_face:	:heart: Thanks again! Have a great day :heart: :partying_face:	:vulcan_salute:
