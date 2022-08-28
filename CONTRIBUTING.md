@@ -53,4 +53,4 @@ Please follow the following steps to have your contribution considered by the ma
 1. Follow all our guidelines and be respectful to the community
 2. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing <details><summary>What if the status checks are not passing?</summary>If a status check is not passing, and you believe that this is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue </details>
 
-# :vulcan_salute:	:partying_face:	:heart: Thanks again! Have a great day :heart: :partying_face:	:vulcan_salute:
+# :call_me_hand: :vulcan_salute:	:partying_face:	:heart: Thanks again! Have a great day :heart: :partying_face:	:vulcan_salute: :call_me_hand: 
