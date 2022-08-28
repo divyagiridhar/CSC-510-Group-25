@@ -1,6 +1,6 @@
 # Contributing to Atom
 
-:smile::tada::vulcan_salute: Thank you for your contribution! :tada::smile::vulcan_salute:
+:smile::tada::vulcan_salute: Thank you for your contribution! :smile::tada::vulcan_salute:
 
 The following is a set of guidelines for contributing to CSC-510-Group-25 on GitHub. These are guidelines, not rules. Feel comfortable to make changes to this document in a pull request.
 
