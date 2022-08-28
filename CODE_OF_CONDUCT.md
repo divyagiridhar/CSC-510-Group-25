@@ -8,8 +8,18 @@ In order to create an open and welcoming environment for all, we as contributors
 
 ## Our Standards
 
-</to-complete>
-  
+Examples of behavior by participants that we encourage include:
+
+- Helping others with suggestions for improvement instead of blaming.
+- Being polite when there is a difference of opinion
+- Understanding and being sympathetic to our members when an error has been made, since we are all humans and mistakes our inevitable.
+
+Examples of behavior by participants that we discourage include:
+
+- Public or private harassment
+- Creating an unwelcoming atmosphere for certain members 
+- Discrimination based on gender, religion or other such accidental attributes
+
 ## Our Responsibilities
 
 </to-complete>
