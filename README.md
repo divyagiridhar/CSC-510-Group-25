@@ -8,7 +8,7 @@
   &nbsp;<a href="/docs/ALGO_2">Algorithm 2</a> &nbsp;|&nbsp;
   &nbsp;<a href="/docs/ALGO_3">Algorithm 3</a> &nbsp;|&nbsp;
   &nbsp;<a href="/docs/ALGO_4">Algorithm 4</a> &nbsp;|&nbsp;
-  &nbsp;<a href="/LICENSE.md">&copy;2022</a> &nbsp;|
+  &nbsp;<a href="/LICENSE">&copy;2022</a> &nbsp;|
 </p>
 
 <br><br>
