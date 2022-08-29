@@ -21,7 +21,7 @@
 <br>
 
 What you get?
-> Python programs for some beginner level mathematical algorithms.
+> Python programs for some mathematical algorithms. Look down below :point_down:
 
 <br>
 
