@@ -4,7 +4,7 @@
 
 <p align="center">
   | &nbsp;<a href="/README.md">Home</a> &nbsp;|&nbsp;
-  &nbsp;<a href="/docs/ALGO_1">Algorithm 1</a> &nbsp;|&nbsp;
+  &nbsp;<a href="/docs/FACTORIAL.md">Factorial</a> &nbsp;|&nbsp;
   &nbsp;<a href="/docs/ALGO_2">Algorithm 2</a> &nbsp;|&nbsp;
   &nbsp;<a href="/docs/ALGO_3">Algorithm 3</a> &nbsp;|&nbsp;
   &nbsp;<a href="/docs/ALGO_4">Algorithm 4</a> &nbsp;|&nbsp;
