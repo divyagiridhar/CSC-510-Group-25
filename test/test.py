@@ -1,11 +1,7 @@
-import sys
-
-sys.path.insert(0, '../code')
-
 import unittest
 
-from setup import factorial
-from fibo import fibonacci
+from CSC-510-Group-25.code.setup import factorial
+from CSC-510-Group-25.code.fibo import fibonacci
 
 class TestReturnValues(unittest.TestCase):
     
