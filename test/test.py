@@ -1,4 +1,9 @@
+import sys
+
+sys.path.insert(0, '../code')
+
 import unittest
+
 from setup import factorial
 from fibo import fibonacci
 
