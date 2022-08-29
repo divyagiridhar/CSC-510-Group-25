@@ -2,8 +2,15 @@
   Basic Mathematical Algorithms
 </h1>
 
-[![Size](https://img.shields.io/tokei/lines/github/divyagiridhar/CSC-510-Group-25)]()
-[![DOI](https://zenodo.org/badge/383077871.svg)](https://zenodo.org/badge/latestdoi/383077871)
+<div align="center">
+  <img src="https://img.shields.io/github/repo-size/divyagiridhar/CSC-510-Group-25?color=brightgreen">
+  <img src="https://img.shields.io/github/search/divyagiridhar/CSC-510-Group-25/goto">
+  <img src="https://img.shields.io/github/license/divyagiridhar/CSC-510-Group-25">
+  <img src="https://img.shields.io/github/commit-activity/m/divyagiridhar/CSC-510-Group-25?color=blueviolet">
+  <a href="https://zenodo.org/badge/latestdoi/383077871">
+    <img src="https://zenodo.org/badge/383077871.svg">
+  </a>
+</div>
 
 <p align="center">
   | &nbsp;<a href="/README.md">Home</a> &nbsp;|&nbsp;
