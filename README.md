@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/github/search/divyagiridhar/CSC-510-Group-25/goto"> &nbsp;
   <img src="https://img.shields.io/github/license/divyagiridhar/CSC-510-Group-25"> &nbsp;
   <img src="https://img.shields.io/github/commit-activity/m/divyagiridhar/CSC-510-Group-25?color=blueviolet"> &nbsp;
+  <img src="https://img.shields.io/github/contributors/divyagiridhar/CSC-510-Group-25?color=important"> &nbsp;
   <a href="https://zenodo.org/badge/latestdoi/383077871">
     <img src="https://zenodo.org/badge/383077871.svg">
   </a>
