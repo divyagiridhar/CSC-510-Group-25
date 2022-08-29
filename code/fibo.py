@@ -8,4 +8,4 @@ def fibonacci(n):
 if __name__ == "__main__":
     arg = sys.argv
     n = int(arg[1])
-    print("The {}th fibonacci number is {}".format(n,fibonacci(n)))
+    print("The {}th fibonacci number is {}".format(n,fibonacci(n))) 
