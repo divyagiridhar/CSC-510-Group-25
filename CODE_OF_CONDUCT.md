@@ -22,15 +22,16 @@ Examples of behavior by participants that we discourage include:
 
 ## Our Responsibilities
 
-</to-complete>
+We as a group are responsible for enforcing our standards and take the appropriate actions to ensure that our guidelines are being met.
+The community leaders have the right to reject or edit comments/commits, if they aren't meeting the guidelines described.
 
 ## Scope
 
-</to-complete>
+This Code of Conduct applies within the entire community space.
 
 ## Enforcement
 
-</to-complete>
+If behaviour that doesn't meet the community standards or guidelines are reported, the community leaders will take action based on what they feel is appropriate. This could be by offering a correction, by giving a warning, by providing a temporary or permanent ban.  
 
 ## Attribution
 
