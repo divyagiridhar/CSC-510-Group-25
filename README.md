@@ -7,10 +7,8 @@
 
 <p align="center">
   | &nbsp;<a href="/README.md">Home</a> &nbsp;|&nbsp;
-  &nbsp;<a href="/docs/FACTORIAL.md">Factorial</a> &nbsp;|&nbsp;
-  &nbsp;<a href="/docs/ALGO_2">Algorithm 2</a> &nbsp;|&nbsp;
-  &nbsp;<a href="/docs/ALGO_3">Algorithm 3</a> &nbsp;|&nbsp;
-  &nbsp;<a href="/docs/ALGO_4">Algorithm 4</a> &nbsp;|&nbsp;
+  &nbsp;<a href="/data/FACTORIAL.md">Factorial</a> &nbsp;|&nbsp;
+  &nbsp;<a href="/data/FIBONACCI.md">Fibonacci Series</a> &nbsp;|&nbsp;
   &nbsp;<a href="/LICENSE">&copy;2022</a> &nbsp;|
 </p>
 
