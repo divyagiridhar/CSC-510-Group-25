@@ -5,7 +5,7 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     arg = sys.argv
     n = int(arg[1])
     print("factorial of {} is {}".format(n,factorial(n)))
