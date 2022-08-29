@@ -11,8 +11,8 @@ If we take an example, lets say factorial of 5
 <br>
 
 #### It isn't mathematics, if there's not a special case in it. There you go, factorial of 0.
-> The special case 0! is defined to have value 0!=1
+> The special case 0! is defined to have value 0! = 1
 
 <br>
 
-#### Curious to check the code in python? Click [Factorial.py](/code/factorial.py)
+#### Curious to check the code in python? Click [Factorial.py](/code/setup.py)
