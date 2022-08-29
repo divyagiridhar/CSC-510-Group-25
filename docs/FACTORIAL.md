@@ -15,4 +15,4 @@ If we take an example, lets say factorial of 5
 
 <br>
 
-#### Curious to check the code in python? Click [Factorial.py](/docs/factorial.py)
+#### Curious to check the code in python? Click [Factorial.py](/code/factorial.py)
