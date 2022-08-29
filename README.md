@@ -2,6 +2,9 @@
   Basic Mathematical Algorithms
 </h1>
 
+[![Size](https://img.shields.io/tokei/lines/github/divyagiridhar/CSC-510-Group-25)]()
+[![DOI](https://zenodo.org/badge/383077871.svg)](https://zenodo.org/badge/latestdoi/383077871)
+
 <p align="center">
   | &nbsp;<a href="/README.md">Home</a> &nbsp;|&nbsp;
   &nbsp;<a href="/docs/FACTORIAL.md">Factorial</a> &nbsp;|&nbsp;
