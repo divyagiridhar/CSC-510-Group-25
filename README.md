@@ -3,22 +3,29 @@
 </h1>
 
 <div align="center">
+ 
   <a href="https://github.com/divyagiridhar/CSC-510-Group-25">
-    <img src="https://img.shields.io/github/repo-size/divyagiridhar/CSC-510-Group-25?color=brightgreen"> &nbsp;
+    <img src="https://img.shields.io/github/repo-size/divyagiridhar/CSC-510-Group-25?color=brightgreen">
   </a>
   <a href="https://github.com/divyagiridhar/CSC-510-Group-25">
-    <img src="https://img.shields.io/github/search/divyagiridhar/CSC-510-Group-25/goto"> &nbsp;
+    <img src="https://img.shields.io/github/search/divyagiridhar/CSC-510-Group-25/goto">
+  </a>
+  <a href="https://github.com/divyagiridhar/CSC-510-Group-25/actions/workflows/python-app.yml">
+    <img src="https://github.com/divyagiridhar/CSC-510-Group-25/actions/workflows/python-app.yml/badge.svg">
   </a>
   <a href="https://github.com/divyagiridhar/CSC-510-Group-25/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/divyagiridhar/CSC-510-Group-25"> &nbsp;
+    <img src="https://img.shields.io/github/license/divyagiridhar/CSC-510-Group-25">
   </a>
   <a href="https://github.com/divyagiridhar/CSC-510-Group-25/graphs/commit-activity">
-    <img src="https://img.shields.io/github/commit-activity/m/divyagiridhar/CSC-510-Group-25?color=blueviolet"> &nbsp;
+    <img src="https://img.shields.io/github/commit-activity/m/divyagiridhar/CSC-510-Group-25?color=blueviolet">
   </a>
   <a href="https://github.com/divyagiridhar/CSC-510-Group-25/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/divyagiridhar/CSC-510-Group-25?color=important"> &nbsp;
+    <img src="https://img.shields.io/github/contributors/divyagiridhar/CSC-510-Group-25?color=important">
   </a>
-  <a href="https://doi.org/10.5281/zenodo.7038944"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7038944.svg" alt="DOI"></a>
+  <a href="https://doi.org/10.5281/zenodo.7038944">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7038944.svg" alt="DOI">
+  </a>
+  
 </div>
 
 <br>
