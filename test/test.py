@@ -1,6 +1,3 @@
-import sys
-sys.path.append('/.../CSC-510-Group-25/code')
-
 import unittest
 
 from setup import factorial
