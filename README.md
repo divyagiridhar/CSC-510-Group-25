@@ -48,6 +48,16 @@
   <li>
     <a href="#gs"> Getting Started </a>
   </li>
+  
+  
+  <li>
+    <a href="#l"> License </a>
+  </li>
+  
+  
+  <li>
+    <a href="#cb"> Contributors </a>
+  </li>
 </ol>
 
   <br>
@@ -94,6 +104,11 @@
 
 > To run these programs make sure you have python version 3 and pytest version 7 installed.
 
+<h3>
+  <p id="l"> License </p>
+</h3>
+
+> <a href="https://github.com/divyagiridhar/CSC-510-Group-25/blob/main/LICENSE"> MIT </a> License is used in this project.
 
 <br>
 
@@ -106,7 +121,7 @@
 </p>
 
 <hr>
-<p>
+<p id="cb">
   <h5 align="center"> CSC510 Software Engineering - Homework 1
   <br><br>
   | &nbsp;Dhruv Patel &nbsp;|&nbsp; Manan Patel &nbsp;|&nbsp; Ravi Ghevariya &nbsp;|&nbsp; Divya Giridhar &nbsp;|&nbsp; Shreyas Titus |
