@@ -42,18 +42,18 @@
 
 <ol>
   <li>
-    Overview
+    <a href="#Overview"> Overview </a>
   </li>
   
   <li>
-    Getting Started
+    <a href="#gs"> Getting Started </a>
   </li>
 </ol>
 
   <br>
 
 <h3>
-  Overview
+  <p id="Overview"> Overview </p>
 </h3>
 
 > Here we have created a repo which includes Python programs for some mathematical algorithms, i.e. <a href="/data/FACTORIAL.md">Factorial</a> , <a href="/data/FIBONACCI.md"> Fibonacci </a> 
@@ -88,7 +88,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp; For Example : 0, 1, 1, 2, 3, 5, 8, 13, 21, 32, . . .
 
 <h3>
-  Getting Started
+  <p id="gs"> Getting Started </p>
+  
 </h3>
 
 > To run these programs make sure you have python version 3 and pytest version 7 installed.
