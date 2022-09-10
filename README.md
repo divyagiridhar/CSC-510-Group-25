@@ -36,8 +36,63 @@
 
 <br>
 
-What you get?
-> Python programs for some mathematical algorithms. Look down below :point_down:
+<h2>
+  Table of Contents
+</h2>
+
+<ol>
+  <li>
+    Overview
+  </li>
+  
+  <li>
+    Getting Started
+  </li>
+</ol>
+
+  <br>
+
+<h3>
+  Overview
+</h3>
+
+> Here we have created a repo which includes Python programs for some mathematical algorithms, i.e. <a href="/data/FACTORIAL.md">Factorial</a> , <a href="/data/FIBONACCI.md"> Fibonacci </a> 
+
+<li>
+  Factorial
+</li>
+
+ <p> &nbsp;&nbsp;&nbsp;&nbsp; The product of all positive integers less than or equal to a given number. The factorial is denoted by n! </p>
+
+ &nbsp;&nbsp;&nbsp;&nbsp; For Example : 
+  Factorial of 5! = 5 * 4 * 3 * 2 * 1 
+
+<li>
+  Fibonacci
+</li>
+
+ <p> &nbsp;&nbsp;&nbsp;&nbsp; A set of integers that starts with 0 followed by a 1, then by another 1, and then by a steadily increasing numbers. 
+     
+ <p>&nbsp;&nbsp;&nbsp;&nbsp; A fibonacci sequence can be defined by following 3 equations : </p>
+     
+     
+       n0 = 0 (For 1st Integer)
+  
+       n1 = 1 (For 2nd Integer)
+       
+       n(i) = n(i-1) + n(i-2) (For all other integers)
+     
+</p>
+
+  
+&nbsp;&nbsp;&nbsp;&nbsp; For Example : 0, 1, 1, 2, 3, 5, 8, 13, 21, 32, . . .
+
+<h3>
+  Getting Started
+</h3>
+
+> To run these programs make sure you have python version 3 and pytest version 7 installed.
+
 
 <br>
 
